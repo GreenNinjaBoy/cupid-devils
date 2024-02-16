@@ -1,8 +1,177 @@
 <div align="center">
 
 # CupidDevils
+## Zen Blog
 
 </div>
+
+
+Zen Blog is a hackathon project created by the Cupid-Devils. The project is designed with a valentines day theme with the purpose of allowing users to view blog post created.
+
+
+You can see the live version of the site [here]()
+
+* Responsive image will be inserted here once site is live.
+
+## Contents
+
+- Cupids-Devils Team
+  - Phil Whitty
+  -  Joha Wilson
+  - Alina Teodora Brinzac
+  - Andreas Jelenko
+  - Daniel Stauffer
+  - Mike
+
+- [User Experience](#User-Experience)
+- [User Stories](##User-Stories)
+- [Site Structure](##Site-Structure)
+	- [Wireframe](#wireframes)
+ - [Design](#design)
+	 - [Typography](#Typography)
+	 - [Color Palette](#Color-Palette)
+ - [Features](#Features)
+	 - [Existing Features](#Existing-Features)
+	
+
+	 - [Future Features](#Future-Features)
+	 
+ - [Technologies used](#Technologies-Used)
+
+ - [Testing](#Testing)
+
+ - [Deployment and Development](#Deployment-and-Development)
+	 - [Deploying the Site](#Deploying-The-Site)
+	 - [Forking the Repository](#Forking-The-Repository)
+	 - [Cloning the Repository](#Cloning-The-Repository)
+
+ - [Credits](#Credits)
+	 - [Content](#Content)
+	 - [Code](#Code)
+
+ - [Acknowledgements](#Acknloeledgements)
+
+# User Experience
+
+## User Stories
+
+As a user I want:
+
+## Site-Structure
+
+
+Site structure info will go here
+
+
+## Wireframes
+
+
+
+Wireframe info will go here
+
+
+
+# Design
+
+
+## Typography
+
+**Color Palette**
+
+
+## Features
+
+**Existing Features** 
+
+
+
+## Technologies Used
+
+### Languages Used
+
+-  [HTML5](https://html.spec.whatwg.org/)
+	- This was used to add structure and content to the site.
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+	- This was used to add style to the HTML elements.
+- [JavaScript](https://www.javascript.com/)
+	- This was used to enhance functionality and interactivity throughout the site.
+
+### Virtual IDE Used
+
+- [Gitpod](https://www.gitpod.io/#get-started)
+- [CodeAnywhere](https://app.codeanywhere.com/)
+	- These were used to create the code and content for the repository.
+
+- [Github](https://github.com/)
+	- Used to store the repository and deploy the site.
+
+
+## Testing
+
+
+## Development and Deployment
+
+
+**Creating The Repository**
+
+**Forking the Repository** 
+
+**Deploying the Site**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Tech stack
